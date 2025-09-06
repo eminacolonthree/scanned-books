@@ -7,3 +7,5 @@ Part One
 **STATE TEXTBOOK PUBLISHING HOUSE**
 
 *MOSCOW 1933*
+
+!(/CleanCover.png)
