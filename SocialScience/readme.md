@@ -8,4 +8,4 @@ Part One
 
 *MOSCOW 1933*
 
-!(/CleanCover.png)
+![Cover of the book](/CleanCover.png)
