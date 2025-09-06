@@ -1,2 +1,2 @@
-# scanned-books
+# Scanned Books
 Books I have scanned in
